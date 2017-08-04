@@ -7,7 +7,6 @@ _ReSharper*
 .classpath
 .project
 .gradle
-build/
 buildSrc/
 bin/
 obj/
@@ -30,3 +29,5 @@ _NCrunch*
 *.ncrunchproject
 *.sln.cache
 *.DotSettings
+.vs/
+artifacts/
